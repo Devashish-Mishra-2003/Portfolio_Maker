@@ -18,7 +18,7 @@ The application generates a clean personal portfolio that users can preview.
 
 ## Tech Stack
 
-| Technology | Description |
+|Technology |Description |
 |-----------|------------|
 | React | Frontend |
 | Node.js | Backend |
